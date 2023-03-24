@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Camilla Geber! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2>
-<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/atwq1-q8yjq.png" width="270">
+<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/atwq1-q8yjq.png" width="230">
 <p><em>Full Stack Developer at <a href="https://www.betrybe.com">Trybe </a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ1NWMyZmJkYWFmOGM5YTlhZTNiNTZhYzVlOTVjNDExODA1ZDIzNSZjdD1n/UEGwYCVTBFa9tJEf66/giphy.gif" width="50"></br>Currently a Python student </a><img src="https://i.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.webp" width="50"> 
 </em></p>
 
