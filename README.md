@@ -20,8 +20,8 @@ class SoftwareDeveloper:
         self.name = "Camilla Geber"
         self.role = "Software Developer"
         self.pronouns = ["she" | "her"]
-        self.code = ["Typescript", "HTML", "CSS", 'Node", "Python"]
-        self.frameworks_and_tools = ["React", "Redux", "Jest", "Docker", "Express"]
+        self.code = ["Typescript", "HTML", "CSS", "Node", "Python"]
+        self.frameworks = ["React", "Redux", "Jest", "Docker", "Express"]
         self.databases = ["mySQL", "MongoDB"]
         self.architecture = ["design patterns", "POO", "SOLID"]
 
