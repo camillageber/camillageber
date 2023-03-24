@@ -26,7 +26,9 @@ class SoftwareDeveloper:
         self.architecture = ["design patterns", "POO", "SOLID"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting. ;)")
+        print(
+        "Thanks for dropping by, hope you enjoy some of my work. ;)"
+        )
 
 
 me = SoftwareDeveloper()
