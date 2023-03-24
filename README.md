@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Camilla Geber! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2>
-<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/atwq1-q8yjq.png" width="230">
+<img align='right' src="https://s4.aconvert.com/convert/p3r68-cdx67/atwq1-q8yjq.png" width="270">
 <p><em>Full Stack Developer at <a href="https://www.betrybe.com">Trybe </a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ1NWMyZmJkYWFmOGM5YTlhZTNiNTZhYzVlOTVjNDExODA1ZDIzNSZjdD1n/UEGwYCVTBFa9tJEf66/giphy.gif" width="50"></br>Currently a Python student </a><img src="https://i.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.webp" width="50"> 
 </em></p>
 
@@ -20,10 +20,10 @@ class SoftwareDeveloper:
         self.name = "Camilla Geber"
         self.role = "Software Developer"
         self.pronouns = ["she" | "her"]
-        self.code = ["Javascript", "Typescript", "HTML", "CSS", 'NodeJs", "Python"]
-        self.frameworks_and_tools = ["React", "Redux", "Jest", "Docker", "ExpressJs"]
+        self.code = ["Typescript", "HTML", "CSS", 'Node", "Python"]
+        self.frameworks_and_tools = ["React", "Redux", "Jest", "Docker", "Express"]
         self.databases = ["mySQL", "MongoDB"]
-        self.architecture = ["design system pattern", "Object-Oriented Programming (POO)", "SOLID"]
+        self.architecture = ["design patterns", "POO", "SOLID"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting. ;)")
