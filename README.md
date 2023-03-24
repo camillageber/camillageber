@@ -5,6 +5,7 @@
 
 [![Linkedin: camillageber](https://img.shields.io/badge/-camillageber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilla-geber/)](https://www.linkedin.com/in/camilla-geber/)
 [![GitHub camillageber](https://img.shields.io/github/followers/camillageber?label=follow&style=social)](https://github.com/camillageber)
+![](https://komarev.com/ghpvc/?username=camillageber&style=plastic)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -20,6 +21,7 @@ class SoftwareDeveloper:
         self.name = "Camilla Geber"
         self.role = "Software Developer"
         self.pronouns = ["she" | "her"]
+        self.country = "Brazil"
         self.code = ["JavaScript", "Typescript", "HTML", "CSS", "Python"]
         self.frameworks = ["React", "Jest", "Docker", "Node", "Express"]
         self.databases = ["mySQL", "MongoDB"]
