@@ -26,7 +26,7 @@ class SoftwareDeveloper:
         self.frameworks = ["React", "Jest", "Docker", "Node", "Express"]
         self.databases = ["mySQL", "MongoDB"]
         self.others = ["Design Patterns", "POO", "SOLID", "TDD"]
-        self.hobbies = ["Read", "Series" "Movies", "True Crime"]
+        self.hobbies = ["Books", "Series" "Movies", "True Crime"]
 
     def say_hi(self):
         print(
