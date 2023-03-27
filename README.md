@@ -68,8 +68,7 @@ Meus principais passatempos, quando eu não estou codando, é ler (<i><b>como se
    <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
 </div>
      <div>
-  <a href="https://github.com/camillageber">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrh&layout=compact&langs_count=7&theme=dark"/>
+ ![Camilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=camillageber&theme=aura_dark&show_icons=true)
 </div>
 </section>
     
