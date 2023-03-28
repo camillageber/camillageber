@@ -50,7 +50,7 @@ My main hobbies, when I am not coding, are reading (<i><b>like there is no tomor
 
  Eu me chamo <i><b>Camillla Geber</b></i>, sou uma <i><b>desenvolvedora de software</b></i> e atendo pelos pronomes ela / dela. 
 Entre as tecnologias que eu conheço, posso mencionar o <i><b>JavaScript, TypeScript, HTML, CSS, Node e o Python</b></i>. Em relação aos frameworks e ferramentas que conheço, algumas delas são: o <i><b>React, o Jest, o Docker</b></i> e o construtor de APIs Rest, <i><b>Express JS</b></i>. Já sobre bancos de dados, eu tenho conhecimento em bancos relacionais e não relacionais, como <i><b>mySQL e MongoDB</b></i>, além de ORMs e ODMs. Por fim, tenho familiaridade em conceitos de <i><b>Design Patterns, POO, SOLID e TDD</b></i>.
-Meus principais passatempos, quando eu não estou codando, é ler (<i><b>como se não houvesse amanhã</b></i> :book:), ver filmes :clapper: e  maratonar séries :tv:, principalmente se o assunto tiver relação com psicologia forense ou 'true crime' :detective:.
+Meus principais passatempos, quando eu não estou codando, são ler livros(<i><b>como se não houvesse amanhã</b></i> :book:), ver filmes :clapper: e  maratonar séries :tv:, principalmente se o assunto tiver relação com psicologia forense ou 'true crime' :detective:.
   
   ```javascript
   console.log("Nice to meet you all :)");
