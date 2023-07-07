@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=camillageber&style=plastic)
 
 
-### <img src="https://s4.aconvert.com/convert/p3r68-cdx67/ai0tw-r1exy.jpg" width="50"> A little more about me...
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AwdW5qbXhhdWlwODJzdm84bXV1aW9rZTJzYTZhaDUzd2ppbXQ0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="85"> A little more about me...
 
 ```python
 #!/usr/bin/python
